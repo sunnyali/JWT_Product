@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\TestAppfor\ViewModel\obj\Debug\net5.0\ViewModel.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TestAppfor\ViewModel\obj\Debug\net5.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TestAppfor\ViewModel\obj\Debug\net5.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TestAppfor\ViewModel\obj\Debug\net5.0\ViewModel.AssemblyInfo.cs
+C:\Users\HP\source\repos\TestAppfor\ViewModel\obj\Debug\net5.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TestAppfor\ViewModel\bin\Debug\net5.0\ViewModel.deps.json
+C:\Users\HP\source\repos\TestAppfor\ViewModel\bin\Debug\net5.0\ViewModel.dll
+C:\Users\HP\source\repos\TestAppfor\ViewModel\bin\Debug\net5.0\ref\ViewModel.dll
+C:\Users\HP\source\repos\TestAppfor\ViewModel\bin\Debug\net5.0\ViewModel.pdb
+C:\Users\HP\source\repos\TestAppfor\ViewModel\obj\Debug\net5.0\ViewModel.dll
+C:\Users\HP\source\repos\TestAppfor\ViewModel\obj\Debug\net5.0\ref\ViewModel.dll
+C:\Users\HP\source\repos\TestAppfor\ViewModel\obj\Debug\net5.0\ViewModel.pdb
